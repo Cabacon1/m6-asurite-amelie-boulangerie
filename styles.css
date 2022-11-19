@@ -1,4 +1,5 @@
 * {
+    margin: auto;
     font-family: Verdana,Arial, sans-serif;
     line-height: 1.5;
 }
@@ -77,5 +78,5 @@ footer {
     font-style: italic;
     text-align: center;
     background-color: #afaeb4;
-    padding: 8px auto;
+    padding: 8px 0;
 }
